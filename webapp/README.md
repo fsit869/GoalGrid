@@ -1,3 +1,14 @@
+# Technologies
+- React + Vite
+- Motion.dev
+- Material UI (MUI) 
+- Storybook
+- React Router
+- Zustand
+- Auth.js
+- React Hook Form
+- TanStack Query (Api Fetching, Caching...etc)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
